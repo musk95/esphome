@@ -13,7 +13,7 @@ spi:
 image:
   - file: "ha_esphome.png"
     id: my_image
-    **type: RGB565**
+    type: RGB565
 
 display:
   - platform: st7789v
