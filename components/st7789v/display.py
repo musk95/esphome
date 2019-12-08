@@ -15,7 +15,7 @@ CONF_BACKLIGHT_PIN = 'bl_pin'
 ST7789V = st7789v_ns.class_('ST7789V', cg.PollingComponent, spi.SPIDevice)
 ST7789VRef = ST7789V.operator('ref')
 
-CONFIG_SCHEMA = display.BASIC_DISPLAY_SCHEMA.extend({
+CONFIG_SCHEMA = display.FULL_DISPLAY_SCHEMA.extend({
     cv.GenerateID(): cv.declare_id(ST7789V),
     cv.Required(CONF_RESET_PIN): pins.gpio_output_pin_schema,
     cv.Required(CONF_DC_PIN): pins.gpio_output_pin_schema,
