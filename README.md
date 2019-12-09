@@ -3,10 +3,10 @@
   This allows you to play with ST7789V which is TFT-LCD  of ESP32 TTGO.
   
 ### How to install
-  * Copy below folders to the component folder of esphome.
-   &nbsp;&nbsp;1. display
-   &nbsp;&nbsp;2. image
-   &nbsp;&nbsp;3. st7789v
+  * Copy below folders to the component folder of esphome.<br>
+   &nbsp;&nbsp;1. display<br>
+   &nbsp;&nbsp;2. image<br>
+   &nbsp;&nbsp;3. st7789v<br>
 
 ### Samples  
   * Sample - Display image<br>
