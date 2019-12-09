@@ -10,7 +10,7 @@
 
 ### Samples  
   * Sample - Display image<br>
-  ![Cap 2019-12-08 17-31-35-962](https://user-images.githubusercontent.com/11463289/70386805-a7fd8580-19e0-11ea-8ebf-10742a3ab3d1.jpg)<br>
+  ![Cap 2019-12-08 17-31-35-962](https://user-images.githubusercontent.com/11463289/70423788-88825d80-1ab1-11ea-80b6-fb0a820e10e9.jpg)<br>
 
 ```
 spi:
