@@ -4,9 +4,9 @@
   
 ### How to install
   * Copy below folders to the component folder of esphome.
-   - display
-   - image
-   - st7789v
+   > display
+   > image
+   > st7789v
 
 ### Samples  
   * Sample - Display image<br>
