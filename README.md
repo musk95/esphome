@@ -36,8 +36,7 @@ display:
 ```
 
   * Sample - Display clock<br>
-  ![Cap 2019-12-09 18-24-02-621](https://user-images.githubusercontent.com/11463289/70423607-288bb700-1ab1-11ea-9f83-49684a9fd941.jpg)
-<br>
+  ![Cap 2019-12-09 18-24-02-621](https://user-images.githubusercontent.com/11463289/70423607-288bb700-1ab1-11ea-9f83-49684a9fd941.jpg)<br>
 
 ```
 spi:
