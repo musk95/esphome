@@ -94,7 +94,7 @@ binary_sensor:
       then:
         - display.page.show: page2
         - component.update: st7789vdisplay
-```
+        
 time:
   - platform: homeassistant
     id: esptime
